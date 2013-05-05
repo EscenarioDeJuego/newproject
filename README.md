@@ -6,12 +6,9 @@ newproject
 --registro de misiones disponibles.
 --registro de misiones no disponibles.
 --indicadores expasiones, actualizacines.
-
-
 -equipo.
 --equipo objetivo para el nivel.
---equipo nivel siguiente/anterior.
-
+--equipo nivel siguiente, anterior.
 -modo
 --automatizado o máquina.
 --manual
